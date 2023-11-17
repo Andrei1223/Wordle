@@ -6,19 +6,7 @@ rolul de a usura citirea liniilor de cod scrise in main. Aceasta
 reinterpretare a jocului accepta orice input de 5 litere mici ca fiind 
 cuvant valid, iar in caz contrar afiseaza ori ca nu este litera ori ca
 nu sunt 5 litere
-Aceasta este schema optiunilor din timpul jocului:
 
-     ---------->INCEPUT<-------------|
-     |             |                 |
-     |     |<------|                 |
-     |     |       |                 |
-   MENIU<--|   (CASTIG)              |
-     |     |       |                 |
-     |     |<------|                 |
-     |             |                 |
-     |  PIERDERE<----->CASTIG--------|
-     |     |              |
-     |---->|---->EXIT<----|
 
 Totodata jocul are un meniu care poate fi accesat apasand tasta ':', 
 insa acest lucru nu este scris nicaieri pe ecranul principal, fiind astfel 
